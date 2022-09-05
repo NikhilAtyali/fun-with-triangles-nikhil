@@ -1,0 +1,1 @@
+This app build using HTML,CSS,Javascript let's you play with triangles and test your knowledge of triangles through quiz
